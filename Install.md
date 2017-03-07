@@ -8,7 +8,7 @@
 
 If you use Docker, installing is pretty painless:
 
-*  Grab a copy of `docker-ce` by following the [instructions for your distrobution](https://docs.docker.com/engine/installation/linux/).
+*  Grab a copy of `docker-ce` by following the [instructions for your distribution](https://docs.docker.com/engine/installation/linux/).
 *  The only other dependency is `git`, or `unzip` to get a copy of the source.
 *  Run `preview.sh`.
 
